@@ -1,5 +1,5 @@
 # arduino_data_transmission
-Arduino USB Data Transmission Project
+Arduino USB data transmission project.
 
 A simple application created to test USB data transfer process between Arduino and PC using Python and C++. It represents the work of two 8-bit registers functioning in U2 system and basic processor operations done on them.
 
